@@ -21,3 +21,5 @@ deploy:
   secret_access_key: $AWSSecretKey
   bucket: "aridiacarts"
   cleanup: false
+  on:
+    branch: 1.12
