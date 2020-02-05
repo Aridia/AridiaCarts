@@ -1,0 +1,10 @@
+# Items
+item.aridiacarts.logo.name=AridiaCarts Logo
+item.aridiacarts.mango.name=Mango
+item.aridiacarts.golden_heart.name=Golden Heart
+item.aridiacarts.blue_heart.name=Blue Heart
+
+# Blocks
+
+# Creative Tab
+itemGroup.aridiacarts=AridiaCarts
