@@ -1,5 +1,5 @@
 # AridiaCarts
-[![Build Status](https://travis-ci.com/Aridia/AridiaCarts.svg?branch=master)](https://travis-ci.com/Aridia/AridiaCarts)
+[![Build Status](https://travis-ci.com/Aridia/AridiaCarts.svg?branch=1.12)](https://travis-ci.com/Aridia/AridiaCarts)
 
 ## License
 AridiaCarts is under the MIT license. You may use it in modpacks, reviews or any other form as long as you abide by the terms below.
